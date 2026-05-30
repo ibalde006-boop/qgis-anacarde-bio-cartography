@@ -24,6 +24,6 @@ Le projet s'articule autour de 4 axes techniques majeurs :
 
 4. **Production Cartographique Automatisée :**
    * Configuration de la mise en page via l'outil **Atlas de QGIS** pour générer automatiquement une fiche cartographique personnalisée par producteur (indispensable pour les audits de certification).
-
+![Carte Officielle de Certification Anacarde](carte_officielle_anacarde.png)
 ## 🧰 Outils & Compétences mobilisés
 `QGIS` | `GeoPackage` | `Analyse Spatiale` | `Gestion de Base de Données` | `Cartographie Thématique` | `GPS & Mobile Data Collection`
